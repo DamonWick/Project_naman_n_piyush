@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "814695020086",
+    "firebase_url": "https://projectpiyushnaman.firebaseio.com",
+    "project_id": "projectpiyushnaman",
+    "storage_bucket": "projectpiyushnaman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814695020086:android:9741880a2347724c",
+        "android_client_info": {
+          "package_name": "xyz.xaidworkz.www.project_naman_n_piyush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814695020086-ui8qqcfbnf6ja77eq4fb8i744g2cvqut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMOnzIsAhD9-WqEzT_dYe9qR3FA4CnJis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
